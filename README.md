@@ -1,5 +1,5 @@
 # My Favorite Programming Languages
--C
--C++
--Python
--Java
+- C
+- C++
+- Python
+- Java
